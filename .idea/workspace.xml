@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c789d6d6-39dc-4848-911d-9587572e09ba" name="Default Changelist" comment="" />
+    <list default="true" id="c789d6d6-39dc-4848-911d-9587572e09ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/softserve/webDriver/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/softserve/webDriver/Utils/Locators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/softserve/webDriver/pageobject/BasePageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/softserve/webDriver/pageobject/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/softserve/webDriver/pageobject/Registration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/softserve/webDriver/webelements/BaseWebElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/softserve/webDriver/webelements/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/softserve/webDriver/webelements/InputField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SendMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/webDriver.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/softserve/webDriver/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/softserve/webDriver/Utils/Locators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/softserve/webDriver/pageobject/Registration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/softserve/webDriver/webelements/Button.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/softserve/webDriver/webelements/Field.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Login.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/webDriver.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Password.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/SendMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webDriver.iml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +49,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RYR2IqiQUPx0amxZ4rnomLIwLR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -77,5 +108,16 @@
       <updated>1569841834230</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
